@@ -41,6 +41,7 @@ proyecto_IA/
 │   ├── modulo_c_comparacion.png
 │   └── plan_final.json
 ├── informe/
+│   └── Informe_Final_Proyecto_IA.pdf
 └── venv/
 ```
 
